@@ -1,6 +1,7 @@
 import pyautogui
 import time
 import random
+import jwngraphics.h
 time.sleep(10)
 b = 0
 for i in range(250):
@@ -11,4 +12,3 @@ for i in range(250):
         b = random.randrange(1000,9999)
         pyautogui.typewrite(str(b))
         pyautogui.press('enter')
-#jawon is so pretty <<WTF  
