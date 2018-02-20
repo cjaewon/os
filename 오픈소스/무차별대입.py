@@ -11,4 +11,4 @@ for i in range(250):
         b = random.randrange(1000,9999)
         pyautogui.typewrite(str(b))
         pyautogui.press('enter')
-jawon is so pretty
+#jawon is so pretty <<WTF  
