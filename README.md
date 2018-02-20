@@ -6,6 +6,7 @@
 깃허브에 글을 쓰고 싶으시면 <br>(디스코드 https://discord.gg/YQKYm56으로 문의해주세요)
 
 <h5>가능한 오픈소스 목록</h5>
+<pre><code>
 js<br>
 c++<br>
 java<br>
@@ -17,4 +18,5 @@ html<br>
 jQury<br>
 PHP<br>
 node.js<br>
-VB<br>
+VB
+</pre></code>
