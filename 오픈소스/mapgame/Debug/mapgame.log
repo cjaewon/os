@@ -1,0 +1,10 @@
+﻿  mapgame.cpp
+c:\users\user\source\repos\mapgame\mapgame\jwngrapic.h(8): warning C4083: ')'이(가) 있어야 하는데 'E0020' 식별자가 있습니다.
+c:\users\user\source\repos\mapgame\mapgame\jwngrapic.h(35): warning C4005: 'BLUE2': 매크로 재정의
+  c:\users\user\source\repos\mapgame\mapgame\jwngrapic.h(29): note: 'BLUE2'의 이전 정의를 참조하십시오.
+c:\users\user\source\repos\mapgame\mapgame\jwngrapic.h(51): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\source\repos\mapgame\mapgame\mapgame.cpp(6): warning C4005: 'max': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(193): note: 'max'의 이전 정의를 참조하십시오.
+c:\users\user\source\repos\mapgame\mapgame\mapgame.cpp(48): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\mapgame\mapgame\mapgame.cpp(168): warning C4244: '인수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapgame.vcxproj -> C:\Users\USER\source\repos\mapgame\Debug\mapgame.exe
